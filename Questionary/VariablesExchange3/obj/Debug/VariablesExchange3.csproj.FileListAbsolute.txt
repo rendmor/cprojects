@@ -1,0 +1,7 @@
+D:\X-Coding\C+Projects\Questionary\VariablesExchange3\obj\Debug\VariablesExchange3.csprojAssemblyReference.cache
+D:\X-Coding\C+Projects\Questionary\VariablesExchange3\obj\Debug\VariablesExchange3.csproj.CoreCompileInputs.cache
+D:\X-Coding\C+Projects\Questionary\VariablesExchange3\bin\Debug\VariablesExchange3.exe.config
+D:\X-Coding\C+Projects\Questionary\VariablesExchange3\bin\Debug\VariablesExchange3.exe
+D:\X-Coding\C+Projects\Questionary\VariablesExchange3\bin\Debug\VariablesExchange3.pdb
+D:\X-Coding\C+Projects\Questionary\VariablesExchange3\obj\Debug\VariablesExchange3.exe
+D:\X-Coding\C+Projects\Questionary\VariablesExchange3\obj\Debug\VariablesExchange3.pdb

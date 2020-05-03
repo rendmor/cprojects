@@ -1,0 +1,7 @@
+D:\X-Coding\C+Projects\Questionary\Questionary\obj\Debug\Questionary.csprojAssemblyReference.cache
+D:\X-Coding\C+Projects\Questionary\Questionary\obj\Debug\Questionary.csproj.CoreCompileInputs.cache
+D:\X-Coding\C+Projects\Questionary\Questionary\bin\Debug\Questionary.exe.config
+D:\X-Coding\C+Projects\Questionary\Questionary\bin\Debug\Questionary.exe
+D:\X-Coding\C+Projects\Questionary\Questionary\bin\Debug\Questionary.pdb
+D:\X-Coding\C+Projects\Questionary\Questionary\obj\Debug\Questionary.exe
+D:\X-Coding\C+Projects\Questionary\Questionary\obj\Debug\Questionary.pdb

@@ -1,0 +1,6 @@
+D:\X-Coding\C+Projects\Questionary\NameSurnameCity\bin\Debug\NameSurnameCity.exe.config
+D:\X-Coding\C+Projects\Questionary\NameSurnameCity\bin\Debug\NameSurnameCity.exe
+D:\X-Coding\C+Projects\Questionary\NameSurnameCity\bin\Debug\NameSurnameCity.pdb
+D:\X-Coding\C+Projects\Questionary\NameSurnameCity\obj\Debug\NameSurnameCity.csproj.CoreCompileInputs.cache
+D:\X-Coding\C+Projects\Questionary\NameSurnameCity\obj\Debug\NameSurnameCity.exe
+D:\X-Coding\C+Projects\Questionary\NameSurnameCity\obj\Debug\NameSurnameCity.pdb

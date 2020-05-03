@@ -1,0 +1,7 @@
+D:\X-Coding\C+Projects\Questionary\BodyWeightIndex\bin\Debug\BodyWeightIndex.exe.config
+D:\X-Coding\C+Projects\Questionary\BodyWeightIndex\bin\Debug\BodyWeightIndex.exe
+D:\X-Coding\C+Projects\Questionary\BodyWeightIndex\bin\Debug\BodyWeightIndex.pdb
+D:\X-Coding\C+Projects\Questionary\BodyWeightIndex\obj\Debug\BodyWeightIndex.csprojAssemblyReference.cache
+D:\X-Coding\C+Projects\Questionary\BodyWeightIndex\obj\Debug\BodyWeightIndex.csproj.CoreCompileInputs.cache
+D:\X-Coding\C+Projects\Questionary\BodyWeightIndex\obj\Debug\BodyWeightIndex.exe
+D:\X-Coding\C+Projects\Questionary\BodyWeightIndex\obj\Debug\BodyWeightIndex.pdb

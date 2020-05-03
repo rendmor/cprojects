@@ -1,0 +1,7 @@
+D:\X-Coding\C+Projects\Questionary\CoordinatesDistanceCalc_method\bin\Debug\CoordinatesDistanceCalc_method.exe.config
+D:\X-Coding\C+Projects\Questionary\CoordinatesDistanceCalc_method\bin\Debug\CoordinatesDistanceCalc_method.exe
+D:\X-Coding\C+Projects\Questionary\CoordinatesDistanceCalc_method\bin\Debug\CoordinatesDistanceCalc_method.pdb
+D:\X-Coding\C+Projects\Questionary\CoordinatesDistanceCalc_method\obj\Debug\CoordinatesDistanceCalc_method.csprojAssemblyReference.cache
+D:\X-Coding\C+Projects\Questionary\CoordinatesDistanceCalc_method\obj\Debug\CoordinatesDistanceCalc_method.csproj.CoreCompileInputs.cache
+D:\X-Coding\C+Projects\Questionary\CoordinatesDistanceCalc_method\obj\Debug\CoordinatesDistanceCalc_method.exe
+D:\X-Coding\C+Projects\Questionary\CoordinatesDistanceCalc_method\obj\Debug\CoordinatesDistanceCalc_method.pdb
